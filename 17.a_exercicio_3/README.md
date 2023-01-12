@@ -1,12 +1,5 @@
-# Aprendendo a programar com Ruby
+# Eenunciado do exercício
 
-Esse projeto foi realizado para aprimorar meus conhecimentos em Ruby onde desenvolvi varias condições para solucionar os exercicios propostos no curso: "Aprendendo a programar com Ruby" Link: https://www.youtube.com/playlist?list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H.
-
-Cada arquivo é uma aula, e dentro deixei separado cada exercicio realizado em um comentario acima dele.
-
-Neste link é possivel ver os enunciados de cada exercicio: https://rafaelbiriba.com/blog/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/.
-
-
-Esse projeto foi desenvolvido em Ruby 2.6.8.
+Aproveitando o exercício #1, crie uma classe Oficina. Essa classe vai ter uma lista para armazenar os carros (utilize a classe Carro do exercício anterior.) A Oficina precisa expor o método listar_todos_carros, listar_carros_troca_oleo e listar_carros_troca_pneu. Você precisa criar um método adicionar_carro para adicionar os carros na oficina.
 
 [![N|Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/) 
