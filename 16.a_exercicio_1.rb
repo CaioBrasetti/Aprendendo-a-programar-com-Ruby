@@ -1,6 +1,3 @@
-
-
-
 #Escreva uma classe BicicletaEletrica que extende Bicicleta, sobrescrevendo o método motorizada para retornar true, de forma que o código abaixo funcine com a nova classe BicicletaEletrica.
 
 class Bicicleta 
