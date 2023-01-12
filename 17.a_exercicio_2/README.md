@@ -1,6 +1,7 @@
 # Enunciado do exercício
 
-Implementar uma classe Veiculo que inicializa e expõe os métodos peso e rodas. Implementar as classes Caminhao, Moto, Carro que estendem da classe Veiculo, onde:
+Implementar uma classe Veiculo que inicializa e expõe os métodos peso e rodas. 
+Implementar as classes Caminhao, Moto, Carro que estendem da classe Veiculo, onde:
 
 Caminhao: Possui 8 rodas e 12000kg. Essa classe precisa implementar o método carga e retornar arroz
 Moto: Possui 2 rodas e 250kg. Essa classe precisa implementar o método cilindradas e retornar 200cc
